@@ -32,7 +32,7 @@ Clone this repository using Git or Shopify CLI:
 git clone git@github.com:Shopify/skeleton-theme.git
 # or
 shopify theme init
-```
+``` n
 
 ### Preview
 
